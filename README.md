@@ -31,3 +31,14 @@ To run this project locally, follow these steps:
 The clock will automatically start when the page is loaded. You can customize the styles in the ```styles.css``` file to change the appearance of the clock.
 
 
+# Contributing
+Contributions are welcome! If you want to add features or improve the project, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch (git checkout -b feature/YourFeature).
+3. Make your changes and commit them (git commit -m 'Add new feature').
+4. Push to the branch (git push origin feature/YourFeature).
+5. Open a pull request.
+
+# License
+This project is licensed under the MIT License.
