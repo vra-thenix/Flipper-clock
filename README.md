@@ -42,3 +42,12 @@ Contributions are welcome! If you want to add features or improve the project, p
 
 # License
 This project is licensed under the MIT License.
+
+# Acknowledgements
+Inspired by classic flip clocks.
+Thanks to the open-source community for resources and tutorials.
+Feel free to modify any section to better fit your project details!
+
+
+
+
