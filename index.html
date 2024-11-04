@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Flipper Clock</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Flipper Clock</h1>
+    <div class="flipper-clock">
+      <div class="flipper" id="hours"></div>
+      <span>:</span>
+      <div class="flipper" id="minutes"></div>
+      <span>:</span>
+      <div class="flipper" id="seconds"></div>
+    </div>
+    <label for="timezone">Select Time Zone:</label>
+    <select id="timezone" onchange="updateClock()">
+        
+      <option value="-12">UTC -12:00</option>
+      <option value="-11">UTC -11:00</option>
+      <option value="-10">UTC -10:00</option>
+      <option value="-9">UTC -9:00</option>
+      <option value="-8">UTC -8:00</option>
+      <option value="-7">UTC -7:00</option>
+      <option value="-6">UTC -6:00</option>
+      <option value="-5" selected>UTC -5:00 (EST)</option>
+      <option value="-4">UTC -4:00</option>
+      <option value="-3">UTC -3:00</option>
+      <option value="-2">UTC -2:00</option>
+      <option value="-1">UTC -1:00</option>
+      <option value="0">UTC 0:00 (GMT)</option>
+      <option value="1">UTC +1:00</option>
+      <option value="2">UTC +2:00</option>
+      <option value="3">UTC +3:00</option>
+      <option value="4">UTC +4:00</option>
+      <option value="5">UTC +5:00</option>
+      <option value="6">UTC +6:00</option>
+      <option value="7">UTC +7:00</option>
+      <option value="8">UTC +8:00</option>
+      <option value="9">UTC +9:00</option>
+      <option value="10">UTC +10:00</option>
+      <option value="11">UTC +11:00</option>
+      <option value="12">UTC +12:00</option>
+    </select>
+    <script src="script.js"></script>
+  </div>
+</body>
+</html>
