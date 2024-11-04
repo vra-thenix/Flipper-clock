@@ -1,0 +1,53 @@
+body {
+  font-family: Arial, sans-serif;
+  display: flex;
+  background: url("https://images8.alphacoders.com/134/thumb-1920-1349816.png");
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background-color: #f0f8ff;
+}
+
+.container {
+  text-align: center;
+  background-color: #ffffff;
+  background: url("https://avatarfiles.alphacoders.com/375/thumb-1920-375186.png");
+  border-radius: 10px;
+  padding: 40px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  width: 400px;
+}
+
+.flipper-clock {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+}
+
+.flipper {
+  background-color: #333;
+  color: #fff;
+  padding: 20px 15px;
+  margin: 0 5px;
+  border-radius: 5px;
+  font-size: 2.5rem;
+  font-weight: bold;
+  text-align: center;
+  min-width: 60px;
+  transition: transform 0.3s ease-in-out;
+  transform-origin: bottom; /* Flipping origin */
+}
+
+span {
+  font-size: 2.5rem;
+  margin: 0 5px;
+}
+
+select {
+  padding: 8px;
+  font-size: 1rem;
+  margin-top: 20px; /* Added space between the clock and the dropdown */
+}
