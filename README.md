@@ -26,3 +26,8 @@ To run this project locally, follow these steps:
 2. Navigate to the project directory:
    ```bash
    cd flipper-clock
+
+# Usage
+The clock will automatically start when the page is loaded. You can customize the styles in the styles.css file to change the appearance of the clock.
+
+
