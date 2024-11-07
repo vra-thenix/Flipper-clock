@@ -48,6 +48,10 @@ Inspired by classic flip clocks.
 Thanks to the open-source community for resources and tutorials.
 Feel free to modify any section to better fit your project details!!
 
+# Demo
+
+Try this : https://flipperclockvra.netlify.app
+
 
 
 
