@@ -40,7 +40,7 @@ function updateClock() {
       flipDigit(document.getElementById("seconds"), seconds);
       previousSeconds = seconds;
     }
-  }, 1000);
+  }, 1);
 }
 
 // Function to update the digit and apply the flipping effect
